@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ### Welcome 👋, thanks for reading
 
-#### My name is Raul Estrada, I'm a programmer in San Francisco Bay Area
+#### I'm Raul, a programmer in San Francisco Bay Area
 
-* ⚙️ I daily use the JVM: `Scala`, `Java` and `Kotlin` mainly.
-* 🌱 I'm currently learning all about *ZIO, Elixir, Web3, Blockchain, Smart Contracts*
-* 🌍 I'm mostly active within the *Data Engineering* community
+* ⚙️ I daily use the JVM: `Scala`, `Java`, `C#` and `C++` mainly.
+* 🌱 I'm currently learning all about *[ZIO](https://zio.dev/), [Elixir](https://elixir-lang.org/), and Clojure*
+* 🌍 I'm mostly active within the *Data Engineering* community: [Delta Lake](https://delta.io/)
 * 💬 Ping me about *Kafka, Scala, Stream Processing, Spark, Flink, Graph Databases, Containers, Machine Learning*
 * 🏢 I'm currently co-founder and CEO of [Treu Technologies, Inc.](https://treutech.io)
 * 📫 Reach me at [Twitter](https://twitter.com/HerrRul) and [Linkedin](https://www.linkedin.com/in/uurl/)
