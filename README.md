@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 #### I'm Raul, a programmer in San Francisco Bay Area
 
 * ⚙️ I daily use: `C++`, `Rust`, `Java` and `Scala` mainly.
-* 🌱 I'm currently learning *[Rust](https://www.rust-lang.org/), [Elixir](https://elixir-lang.org/), and [Clojure](https://clojure.org/)*
-* 🌍 Previously, I was mostly active within the *Data Engineering* community: [Kafka](https://kafka.apache.org/), [Polars](https://www.pola.rs/)
+* 🌱 I'm currently learning *[Elixir](https://elixir-lang.org/), and [Clojure](https://clojure.org/)*
+* 🌍 Previously, I was mostly active within the *Data Engineering* community: [Kafka](https://kafka.apache.org/), [Flink](https://flink.apache.org/), [Spark](https://spark.apache.org/), [Polars](https://www.pola.rs/)
 * 🔥 Currently, I'm specialized in Compilers, GPU's, [CUDA](https://developer.nvidia.com/cuda), [LLVM](https://llvm.org/), [Triton](https://triton-lang.org/) 
 * 💬 Ping me about *Compilers, GPU's, Rust, Scala, Stream Processing, Kafka, Spark, Flink, Graph Databases, Containers*
 * 🏢 I'm  co-founder of [Treu Technologies, Inc.](https://treutech.io)
